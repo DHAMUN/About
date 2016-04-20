@@ -42,7 +42,17 @@ b) A server (coming soon)
 c) A mobile app (coming soon)
 ```
 
+### Programmers
 
+Read the non-programmers section. Then come back here.
+
+The web client is built on React, and follows Flux patterns using somthing called Redux. It's an alternative to MVC app structures.
+
+It has hotloading, uses React-Router (I can hear you cackling with joy), and has tests. (Not so many now :p)
+
+### Contributing
+
+Open an issue on github. Make a PR that fixes it (if you want). 
 
 ### Creds
 1. Fuzzy and Shan masala for telling me 'bout "Tech Manager"
