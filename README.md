@@ -50,6 +50,10 @@ The web client is built on React, and follows Flux patterns using somthing calle
 
 It has hotloading, uses React-Router (I can hear you cackling with joy), and has tests. (Not so many now :p)
 
+The server will run on Node.js, and will use MongoDB as a database.
+
+The app will use React Native. 
+
 ### Contributing
 
 Open an issue on github. Make a PR that fixes it (if you want). 
