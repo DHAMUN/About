@@ -20,16 +20,19 @@ DHAMUN is an outstanding conference. It truly is.
 But it's limited. Imagine.
 
 ```
-Imagine meetings where you didn't take attendance by running around with a spreadsheet. People take out there phones and mark themselves present, using a geolocation sensor in there phone.
+Imagine meetings where you didn't take attendance by running 
+around with a spreadsheet. People take out there phones and 
+mark themselves present, using a geolocation sensor in there phone.
 
-Imagine realtime tracking for resolution votes. No need to "tally the house or whatever." 
+Imagine realtime tracking for resolution votes. 
+No need to "tally the house or whatever." 
 
-Imagine submitting a resolution online, and not needing to carry a USB around.
+Imagine submitting a resolution online, and not carrying a USB around.
 
 Imagine DHAMUN virtualized. Let's make this imagination a reality.
 ```
 
-Now that was nice. The point of this project is to create an ecosystem for DHAMUN, not a simple, pretty website.
+Now that was nice. The point of this project is to create an ecosystem for DHAMUN, not a simple, pretty website. I've created a client you can check out in another repo. This is the start.
 
 This is DHAMUN Dev. 
 
