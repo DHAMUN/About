@@ -80,12 +80,12 @@ A powerful hub for DHAMUN admins. Allows them to manage and view user stats, and
 7. [ ] Online Resolution Submission  
 Remove the need to carry a USB in the conference. Build Google Docs intergration into user accounts, and let them submit a resolution by selecting a doc in their google drive.
 8. [ ] Live resolution vote tracking  
-Use dynamic charts to graph the votes for every resolution, as people vote. Filter charts based on school, etc
-9. [ ] Basic Mobile App
+Use dynamic charts to graph the votes for every resolution live, as people vote. Filter charts based on school, etc
+9. [ ] Basic Mobile App  
 Transition some of the above to a mobile app
-10. [ ] Geolocation attendance.
+10. [ ] Geolocation attendance.  
 Use the geolocation sensor on a device to mark a student as present in a DHS DHAMUN meeting
-11. [ ] @dhamun.com email addresses?????
+11. [ ] @dhamun.com email addresses?????  
 As cool as it sounds :p  
 12. [ ] Brainstorm more!
 
