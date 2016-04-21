@@ -65,17 +65,29 @@ The app will use React Native.
 Open an issue on github. Make a PR that fixes it (if you want). 
 
 ### TODO
-1. [X] Simple Website
-2. [ ] Simple Server
-2. [ ] User Accounts
-2. [ ] User Dashboards
-2. [ ] Admin Accounts
-2. [ ] Admin Dashboard
-3. [ ] Online Resolution Submission
-4. [ ] Live resolution vote tracking
-5. [ ] Basic Mobile App
-6. [ ] Geolocation attendance.
-7. [ ] Brainstorm more!
+1. [X] Simple Website  
+A simple landing page. This was in my tech manager application. It showcases basic design skills. This is not my strength
+2. [ ] Simple Server  
+A server for DHAMUN. This is where all DHAMUN based applications will connect. It will power (potentially) a mobile app, a web portal, etc.
+3. [ ] User Accounts  
+Create user account services. Let people make their own DHAMUN accounts instead of signing up with paper and pencil
+4. [ ] User Dashboards  
+Allow users to view personalized information about the conference, based on their assigned country.
+5. [ ] Admin Accounts  
+Add support for admin accounts too. Similar to user accounts
+6. [ ] Admin Dashboard  
+A powerful hub for DHAMUN admins. Allows them to manage and view user stats, and automagically assign countries
+7. [ ] Online Resolution Submission  
+Remove the need to carry a USB in the conference. Build Google Docs intergration into user accounts, and let them submit a resolution by selecting a doc in their google drive.
+8. [ ] Live resolution vote tracking  
+Use dynamic charts to graph the votes for every resolution, as people vote. Filter charts based on school, etc
+9. [ ] Basic Mobile App
+Transition some of the above to a mobile app
+10. [ ] Geolocation attendance.
+Use the geolocation sensor on a device to mark a student as present in a DHS DHAMUN meeting
+11. [ ] @dhamun.com email addresses?????
+As cool as it sounds :p  
+12. [ ] Brainstorm more!
 
 ### Creds
 1. Fuzzy and Shan masala for telling me 'bout "Tech Manager"
