@@ -35,7 +35,7 @@ Imagine DHAMUN virtualized. Let's make this imagination a reality.
 
 Now that was nice. The point of this project is to create an ecosystem for DHAMUN, not a simple, pretty website. A hub for DHAMUN staff and members. I've created a client you can check out in another repo. This is the start.
 
-Look at the [TODO](#todo)for more features
+Look at the [TODO](#todo) for future features.
 
 This is DHAMUN Dev. 
 
@@ -65,7 +65,7 @@ The app will use React Native.
 Open an issue on github. Make a PR that fixes it (if you want). 
 
 ### TODO
-1. [-] Simple Website
+1. [X] Simple Website
 2. [ ] Simple Server
 2. [ ] User Accounts
 2. [ ] User Dashboards
@@ -75,7 +75,7 @@ Open an issue on github. Make a PR that fixes it (if you want).
 4. [ ] Live resolution vote tracking
 5. [ ] Basic Mobile App
 6. [ ] Geolocation attendance.
-7. The list goes on...
+7. [X] Brainstorm more!
 
 ### Creds
 1. Fuzzy and Shan masala for telling me 'bout "Tech Manager"
