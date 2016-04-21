@@ -4,8 +4,8 @@ DHAMUN Dev Ecosystem
 ## Table of Contents
 
 - [About](#about)
-- [TODO](#TODO)
-- [Creds](#Creds)
+- [Todo](#todo)
+- [Creds](#creds)
 
 ## About
 
@@ -35,7 +35,7 @@ Imagine DHAMUN virtualized. Let's make this imagination a reality.
 
 Now that was nice. The point of this project is to create an ecosystem for DHAMUN, not a simple, pretty website. A hub for DHAMUN staff and members. I've created a client you can check out in another repo. This is the start.
 
-Look at the [TODO](#TODO) for future features.
+Look at the [TODO](#todo) for future features.
 
 This is DHAMUN Dev. 
 
