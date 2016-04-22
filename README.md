@@ -67,7 +67,7 @@ Open an issue on github. Make a PR that fixes it (if you want).
 ### TODO
 1. [X] Simple Website  
 A simple landing page. This was in my tech manager application. It showcases basic design skills. This is not my strength
-2. [ ] Simple Server  
+2. [X] Simple Server  
 A server for DHAMUN. This is where all DHAMUN based applications will connect. It will power (potentially) a mobile app, a web portal, etc.
 3. [ ] User Accounts  
 Create user account services. Let people make their own DHAMUN accounts instead of signing up with paper and pencil
