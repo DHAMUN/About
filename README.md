@@ -62,7 +62,7 @@ The app will use React Native.
 
 ### Contributing
 
-Open an issue on github. Make a PR that fixes it (if you want). 
+Take a good look at the [contributing guidlines](https://github.com/DHAMUN/About/blob/master/CONTRIBUTING.md)
 
 ### TODO
 1. [X] Simple Website  
