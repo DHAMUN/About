@@ -17,27 +17,11 @@ I'm going to explain what I'm trying to do here, both in technical and non techn
 
 #### Non-Programmers
 
-DHAMUN is an outstanding conference. It truly is. 
-But it's limited. Imagine.
+Referendum isn't supposed to an MUN app about conference specific information. I built it so people can submit resolutions to chairs easily, and vote on various affairs in neat web-based portal.
 
-```
-Imagine meetings where you didn't take attendance by running 
-around with a spreadsheet. People take out there phones and 
-mark themselves present, using a geolocation sensor in there phone.
+Instead of walking to the Chair with a USB drive, you could simply pick the resolution straight off your Google Drive (in Referendum), and have it submit straight to the Chair.
 
-Imagine realtime tracking for resolution votes. 
-No need to "tally the house or whatever." 
-
-Imagine submitting a resolution online, and not carrying a USB around.
-
-Imagine DHAMUN virtualized. Let's make this imagination a reality.
-```
-
-Now that was nice. The point of this project is to create an ecosystem for DHAMUN, not a simple, pretty website. A hub for DHAMUN staff and members. I've created a client you can check out in another repo. This is the start.
-
-Look at the [TODO](#todo) for future features.
-
-This is DHAMUN Dev. 
+Instead of counting an unclear vote, you could vote on Referendum itself, and get a person-by-person view of how voting has played out (Pass/Reject/Abstain) 
 
 ```
 a) A web client (started)
