@@ -11,7 +11,7 @@ DHAMUN Dev Ecosystem
 
 ### General
 
-This is DHAMUN Dev.
+This is Referendum :)
 
 I'm going to explain what I'm trying to do here, both in technical and non technical terms. Read on.
 
@@ -50,17 +50,17 @@ Take a good look at the [contributing guidlines](https://github.com/DHAMUN/About
 
 ### TODO
 1. [X] Simple Website  
-A simple landing page. This was in my tech manager application. It showcases basic design skills. This is not my strength
+A simple landing page. 
 2. [X] Simple Server  
-A server for DHAMUN. This is where all DHAMUN based applications will connect. It will power (potentially) a mobile app, a web portal, etc.
+A server for Referendum. This is where all Referendum based applications will connect. It will power (potentially) a mobile app, a web portal, etc.
 3. [ ] User Accounts  
-Create user account services. Let people make their own DHAMUN accounts instead of signing up with paper and pencil
+Create user account services. Let people make their own Referendum accounts instead of signing up with paper and pencil
 4. [ ] User Dashboards  
 Allow users to view personalized information about the conference, based on their assigned country.
 5. [ ] Admin Accounts  
 Add support for admin accounts too. Similar to user accounts
 6. [ ] Admin Dashboard  
-A powerful hub for DHAMUN admins. Allows them to manage and view user stats, and automagically assign countries
+A powerful hub for Referendum admins. Allows them to manage and view user stats, and automagically assign countries
 7. [ ] Online Resolution Submission  
 Remove the need to carry a USB in the conference. Build Google Docs intergration into user accounts, and let them submit a resolution by selecting a doc in their google drive.
 8. [ ] Live resolution vote tracking  
@@ -68,10 +68,7 @@ Use dynamic charts to graph the votes for every resolution live, as people vote.
 9. [ ] Basic Mobile App  
 Transition some of the above to a mobile app
 10. [ ] Geolocation attendance.  
-Use the geolocation sensor on a device to mark a student as present in a DHS DHAMUN meeting
+Use the geolocation sensor on a device to mark a student as present in a  Referendum meeting
 11. [ ] @dhamun.com email addresses?????  
 As cool as it sounds :p  
 12. [ ] Brainstorm more!
-
-### Creds
-1. Fuzzy and Shan masala for telling me 'bout "Tech Manager"
